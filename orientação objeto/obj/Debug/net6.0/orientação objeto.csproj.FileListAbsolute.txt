@@ -1,0 +1,15 @@
+C:\Users\bruno.matos1\source\repos\orientação objeto\obj\Debug\net6.0\orientação objeto.csproj.AssemblyReference.cache
+C:\Users\bruno.matos1\source\repos\orientação objeto\obj\Debug\net6.0\orientação objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno.matos1\source\repos\orientação objeto\obj\Debug\net6.0\orientação objeto.AssemblyInfoInputs.cache
+C:\Users\bruno.matos1\source\repos\orientação objeto\obj\Debug\net6.0\orientação objeto.AssemblyInfo.cs
+C:\Users\bruno.matos1\source\repos\orientação objeto\obj\Debug\net6.0\orientação objeto.csproj.CoreCompileInputs.cache
+C:\Users\bruno.matos1\source\repos\orientação objeto\bin\Debug\net6.0\orientação objeto.exe
+C:\Users\bruno.matos1\source\repos\orientação objeto\bin\Debug\net6.0\orientação objeto.deps.json
+C:\Users\bruno.matos1\source\repos\orientação objeto\bin\Debug\net6.0\orientação objeto.runtimeconfig.json
+C:\Users\bruno.matos1\source\repos\orientação objeto\bin\Debug\net6.0\orientação objeto.dll
+C:\Users\bruno.matos1\source\repos\orientação objeto\bin\Debug\net6.0\orientação objeto.pdb
+C:\Users\bruno.matos1\source\repos\orientação objeto\obj\Debug\net6.0\orientação objeto.dll
+C:\Users\bruno.matos1\source\repos\orientação objeto\obj\Debug\net6.0\refint\orientação objeto.dll
+C:\Users\bruno.matos1\source\repos\orientação objeto\obj\Debug\net6.0\orientação objeto.pdb
+C:\Users\bruno.matos1\source\repos\orientação objeto\obj\Debug\net6.0\orientação objeto.genruntimeconfig.cache
+C:\Users\bruno.matos1\source\repos\orientação objeto\obj\Debug\net6.0\ref\orientação objeto.dll
